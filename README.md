@@ -1,25 +1,24 @@
 
-<!-- Profile README - Malak Wael -->
-
 <h1 align="center">Hi 👋, I'm Malak Wael</h1>
 
-<h3 align="center">Software Testing Engineer | QA & QC | Manual & Automation Testing</h3>
+<h3 align="center">Software Testing Engineer | QA & QC</h3>
 
 <p align="center">
-  Passionate about Software Quality, Test Automation, and delivering reliable software products.
+  Passionate about Software Quality, Manual Testing, Automation Testing, and API Testing.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🔍 Software Testing Engineer interested in Software Quality Assurance (QA) and Quality Control (QC).
-- 🧪 Experienced in both Manual Testing and Automation Testing.
+- 🔍 Software Testing Engineer interested in Quality Assurance (QA) and Quality Control (QC).
+- 🧪 Skilled in Manual Testing and Automation Testing.
 - 🤖 Working with Selenium and Java for UI Automation Testing.
-- 🔗 Skilled in API Testing using Postman and REST Assured.
-- 📊 Familiar with SQL, JIRA, Maven, Git, and GitHub.
+- 🔗 Experienced in API Testing using Postman and REST Assured.
+- 💻 Familiar with Maven, SQL, Git, GitHub, and JIRA.
 - 🎓 Completed a Software Testing Internship at QNB Al Ahli.
-- 🚀 Always learning and improving my testing and automation skills.
+- 🚀 Always eager to learn new technologies and improve my testing skills.
+- 🎯 Passionate about delivering high-quality and reliable software.
 
 ---
 
@@ -32,12 +31,12 @@
 - UI Testing
 - Quality Assurance (QA)
 - Quality Control (QC)
+- Regression Testing
 
-### Automation & Programming
+### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_Assured-4CAF50?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 </p>
 
@@ -57,35 +56,39 @@
 
 ---
 
-## 🎓 Training & Experience
+## 🎓 Training
 
 **Software Testing Internship – QNB Al Ahli**
 
 - Completed practical training in Software Testing.
-- Developed knowledge of software quality assurance and testing practices.
+- Gained knowledge of software testing methodologies and quality assurance practices.
+- Developed my understanding of software quality and testing processes.
 
 ---
 
-## 📂 My Projects
+## 📚 Currently Learning
 
-I am building and improving my testing portfolio through practical projects in:
-
-- 🧪 Manual Testing – Test Cases and Bug Reports.
-- 🤖 UI Automation Testing – Selenium with Java.
-- 🔗 API Testing – Postman Collections.
-- ⚙️ API Automation Testing – REST Assured.
-
-<!-- Add links to your actual GitHub projects here as you publish them. -->
+- Improving Automation Testing skills.
+- Building API Automation frameworks using REST Assured.
+- Enhancing Manual Testing techniques.
+- Expanding knowledge of Software Quality Assurance.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
 <p>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="mailto:malak.wael.kamall@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/201552899331">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat_With_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
+
+📧 **Email:** malak.wael.kamall@gmail.com
+
+📱 **WhatsApp:** +20 155 289 9331
 
 ---
 
@@ -93,6 +96,4 @@ I am building and improving my testing portfolio through practical projects in:
   <i>"Quality is never an accident; it is always the result of intelligent effort."</i>
 </p>
 
-<p align="center">
-  Thank you for visiting my profile! 💜
-</p>
+<h3 align="center">Thanks for visiting my profile! 💜</h3>
